@@ -1,0 +1,63 @@
+*{
+
+background-color: bisque;
+font-family: 'Protest Strike', sans-serif; 
+
+
+}
+
+
+
+.titulo{
+
+position: relative;
+text-align: center;
+margin-left: 35px;
+top: 75px;
+
+}
+
+a{
+
+text-decoration: none;
+color: black;
+margin-right: 25%;
+
+}
+
+
+.um{
+
+margin-left: 400px;
+margin-top: 25px;
+
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+  }
+
+  .slogan {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  img {
+    width: 600px;
+    height: 400px;
+    max-width: 100%;
+    height: auto;
+    margin-left: 100px;
+    margin-top: -50px;
+  }
+
+  .nomePagina{
+    margin-bottom: 100px;
+    margin-top: -85px;
+  }
+
+  .Links{
+    margin-bottom: 100px;
+  }
